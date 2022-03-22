@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "gatsby": "next",
+    "gatsby-plugin-offline": "next",
     "react": "rc",
     "react-dom": "rc"
   }
